@@ -1,5 +1,6 @@
 public class MinhaClasse {
     public static void main(String[] args) {
-        System.out.println("ola turma, estou no terminal");
+        System.out.println("aiaiai");
+
     }
 }
